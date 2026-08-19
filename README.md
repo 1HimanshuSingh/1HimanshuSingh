@@ -78,19 +78,19 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux" />
+<img src="https://skillicons.dev/icons?i=,git,github" />
 </p>
 
 ### 🤖 AI / Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---

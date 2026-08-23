@@ -85,87 +85,15 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 <img src="https://skillicons.dev/icons?i=git,github,aws" />
 </p>
 
-### 🤖 AI / Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
 
----
 
-# 🚀 Featured Projects
 
-<table>
-<tr>
 
-<td width="50%">
 
-### 🤖 AI-Powered API Platform
 
-**Production-oriented AI backend**
 
-* ⚡ FastAPI backend
-* 🔐 JWT authentication
-* 🗄️ PostgreSQL
-* 🐳 Docker
-* 🤖 OpenAI API integration
-* 📡 REST APIs
 
-**Focus:** scalable backend architecture & AI integration
-
-</td>
-
-<td width="50%">
-
-### 📋 Task Management Platform
-
-**Full-stack productivity application**
-
-* ⚛️ React
-* 🟢 Node.js
-* 🚂 Express
-* 🍃 MongoDB
-* 🔐 Authentication
-* 📱 Responsive UI
-
-**Focus:** full-stack application development
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🌐 Developer Portfolio
-
-Personal developer portfolio showcasing projects, skills and experience.
-
-**Stack**
-
-`React` `JavaScript` `CSS` `REST API`
-
-</td>
-
-<td width="50%">
-
-### 💬 AI Chat Application
-
-AI-powered conversational application with modern frontend and backend architecture.
-
-**Stack**
-
-`React` `FastAPI` `OpenAI API` `PostgreSQL`
-
-</td>
-
-</tr>
-</table>
-
-> ⭐ Replace the project names above with your actual repositories and add repository/demo links once they're ready.
-
----
 
 # 🧠 Currently Learning
 
@@ -182,17 +110,6 @@ AI-powered conversational application with modern frontend and backend architect
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1himanshusingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1himanshusingh&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -202,17 +119,9 @@ AI-powered conversational application with modern frontend and backend architect
 
 </div>
 
----
 
-# 🏆 GitHub Trophies
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=1himanshusingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
 
 # 💻 Coding Profiles
 
@@ -226,35 +135,7 @@ AI-powered conversational application with modern frontend and backend architect
 
 </div>
 
----
 
-# 📈 My Developer Journey
-
-```text
-2025 ────────────────────────────────────────► 2026
-
-  🎓 CSE Graduate
-        │
-        ▼
-  💻 Full-Stack Development
-        │
-        ▼
-  ⚙️ Backend Engineering
-        │
-        ▼
-  🤖 AI / LLM Applications
-        │
-        ▼
-  ☁️ Cloud & DevOps
-        │
-        ▼
-  🏗️ System Design
-        │
-        ▼
-  🚀 Software Engineering
-```
-
----
 
 # 🎯 2026–27 Goals
 

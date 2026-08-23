@@ -82,7 +82,7 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=,git,github,AWS" />
+<img src="https://skillicons.dev/icons?i=,git,github,aws" />
 </p>
 
 ### 🤖 AI / Data

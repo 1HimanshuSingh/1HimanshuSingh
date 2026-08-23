@@ -38,18 +38,16 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 
 ```text
 🎓 Computer Science Engineering Graduate
-💻 Full-Stack Developer focused on modern web applications
-⚙️ Backend development & REST API design
-🤖 Exploring AI/LLM-powered applications
-🧠 Practicing Data Structures & Algorithms
-☁️ Interested in Cloud, DevOps & scalable systems
-🚀 Building projects that solve real-world problems
+ Full-Stack Developer focused on modern web applications
+ Backend development & REST API design
+ Exploring AI/LLM-powered applications
+ nterested in Cloud, DevOps & scalable systems
+ Building projects that solve real-world problems
 ```
 
-* 🔭 Currently working on **Full-Stack & AI-powered applications**
-* 🌱 Currently learning **System Design, Cloud, DevOps & Advanced DSA**
-* 💡 Interested in **Software Engineering, Backend Systems & AI**
-* 🧩 I enjoy turning ideas into **production-ready applications**
+*  Currently working on **Full-Stack & AI-powered applications**
+*  Currently learning **System Design, Cloud, DevOps & Advanced DSA**
+*  Interested in **Software Engineering, Backend Systems & AI**
 * 📚 Constantly improving my problem-solving and engineering skills
 * 📫 Reach me at **[himanshusingh200320@gmail.com](mailto:himanshusingh200320@gmail.com)**
 
@@ -84,7 +82,7 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=,git,github" />
+<img src="https://skillicons.dev/icons?i=,git,github,AWS" />
 </p>
 
 ### 🤖 AI / Data

@@ -82,7 +82,7 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,aws" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 
@@ -95,29 +95,13 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 
 
 
-# 🧠 Currently Learning
 
-```text
-├── 📌 Advanced Data Structures & Algorithms
-├── 🏗️ System Design
-├── ☁️ AWS & Cloud Architecture
-├── 🐳 Docker & Kubernetes
-├── 🔄 CI/CD & DevOps
-├── 🤖 LLM Applications
-├── 🔎 RAG & AI Agents
-└── ⚡ Distributed Systems
 ```
 
 ---
 
 
-# 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=1himanshusingh&theme=tokyonight&hide_border=true" />
-
-</div>
 
 
 
@@ -137,16 +121,7 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 
 
 
-# 🎯 2026–27 Goals
 
-* [ ] 🚀 Build production-grade full-stack applications
-* [ ] 🧠 Reach strong DSA problem-solving level
-* [ ] 🏗️ Master System Design fundamentals
-* [ ] ☁️ Become proficient with AWS
-* [ ] 🐳 Learn Kubernetes & advanced DevOps
-* [ ] 🤖 Build advanced LLM/RAG applications
-* [ ] 💼 Land a strong Software Engineering role
-* [ ] 🌟 Contribute to meaningful open-source projects
 
 ---
 

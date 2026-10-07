@@ -6,14 +6,7 @@
 
 Building **scalable web applications, REST APIs, and AI-powered products** with modern technologies.
 
-<p>
-  <a href="https://github.com/1himanshusingh">
-    <img src="https://komarev.com/ghpvc/?username=1himanshusingh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/1himanshusingh?tab=followers">
-    <img src="https://img.shields.io/github/followers/1himanshusingh?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-</p>
+
 
 <p>
   <a href="https://linkedin.com/in/himanshu-singh-7740963b6">
@@ -22,9 +15,7 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
   <a href="https://leetcode.com/u/1himanshusingh/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://codeforces.com/profile/gokudtyhfjy">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
+  
   <a href="mailto:[himanshusingh200320@gmail.com](mailto:himanshusingh200320@gmail.com)">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -36,19 +27,9 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 
 ## 🧑‍💻 About Me
 
-```text
-🎓 Computer Science Engineering Graduate
- Full-Stack Developer focused on modern web applications
- Backend development & REST API design
- Exploring AI/LLM-powered applications
- nterested in Cloud, DevOps & scalable systems
- Building projects that solve real-world problems
-```
 
-*  Currently working on **Full-Stack & AI-powered applications**
-*  Currently learning **System Design, Cloud, DevOps & Advanced DSA**
-*  Interested in **Software Engineering, Backend Systems & AI**
-* 📚 Constantly improving my problem-solving and engineering skills
+
+*  Aspiring Java Backend Developer focused on building scalable and secure backend applications using Java, Spring Boot, Spring Security, REST APIs, and PostgreSQL.Hands-on with Redis, Kafka, Docker, AWS, Git, and SQL, with a growing focus on Microservices, Distributed Systems, and System Design.Passionate about backend engineering, API development, database optimization, and building production-ready applications. Open to Java Backend Developer, Backend Engineer, and Software Engineer opportunities.
 * 📫 Reach me at **[himanshusingh200320@gmail.com](mailto:himanshusingh200320@gmail.com)**
 
 ---
@@ -58,7 +39,7 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css" />
 </p>
 
 ### 🎨 Frontend
@@ -70,7 +51,8 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi" />
+<img src="https://skillicons.dev/icons?i=spring,express,fastapi," />
+
 </p>
 
 ### 🗄️ Databases
@@ -82,31 +64,10 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=git,github,aws" />
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-```
-
----
-
-
-
-
-
-
-
-
+--- 
 # 💻 Coding Profiles
 
 <div align="center">
@@ -114,32 +75,10 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 | Platform      | Profile                                                    |
 | ------------- | ---------------------------------------------------------- |
 | 🟡 LeetCode   | [@1himanshusingh](https://leetcode.com/u/1himanshusingh/)  |
-| 🔵 Codeforces | [@gokudtyhfjy](https://codeforces.com/profile/gokudtyhfjy) |
 | 🐙 GitHub     | [@1himanshusingh](https://github.com/1himanshusingh)       |
 
 </div>
 
-
-
-
-
----
-
-# 📚 Engineering Interests
-
-<p align="center">
-
-`Software Engineering` • `Backend Development` • `Full Stack Development`
-
-`Artificial Intelligence` • `LLMs` • `RAG` • `System Design`
-
-`Cloud Computing` • `DevOps` • `Distributed Systems`
-
-`Data Structures & Algorithms` • `Open Source`
-
-</p>
-
----
 
 # 🤝 Let's Connect
 

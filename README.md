@@ -8,7 +8,7 @@ Building **scalable web applications, REST APIs, and AI-powered products** with 
 
 <p>
   <a href="https://github.com/1himanshusingh">
-    <img src="https://komarev.com/ghpvc/?username=1himanshusingh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=1himanshusingh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   </a>
   <a href="https://github.com/1himanshusingh?tab=followers">
     <img src="https://img.shields.io/github/followers/1himanshusingh?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
